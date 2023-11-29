@@ -18,4 +18,4 @@ let z = 'He earns 5000 euro from salary per month, 10000 euro annual bonus, 1500
 // }
 
 
-console.log(sum)
+// console.log(sum)
